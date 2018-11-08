@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://mattemanca.files.wordpress.com/2018/01/ngi_logo_240x55.png",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "The list of keywords related to social issues and values, manually extracted from NGI reports, was used as a seed. The network contains all articles linked from, and linked to, at least two of these keywords\u0027 articles.\n\nThe size of each node is proportional to its degree, i.e. to its overall number of connections within the network.\n\nEach colour indicates a cluster of articles densely connected with each other.",
+    "intro": "Network of hyperlinks between Wikipedia articles around NGI related social issues and values keywords.",
+    "title": "NGI social issues and values network"
+  },
+  "legend": {
+    "edgeLabel": "Hyperlink between two articles",
+    "colorLabel": "Groups of densely connected articles (clusters)",
+    "nodeLabel": "Wikipedia article"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 3,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
