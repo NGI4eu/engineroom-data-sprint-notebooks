@@ -106,3 +106,6 @@ venv.bak/
 # ignore all contents of the venvs directory
 venvs/*
 !venvs/.gitkeep
+
+# ignore Icon\r
+Icon?
