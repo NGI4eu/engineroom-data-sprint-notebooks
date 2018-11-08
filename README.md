@@ -11,14 +11,14 @@ A notebook that will show you how to setup a Python virtual environment on your 
 
 A notebook to extract a network of Wikipedia pages by querying the Wikipedia API.
 
-03-wikipedia-article-metrics
+## 03-wikipedia-article-metrics
 
 A Notebook to load and visualize monthly data about NGI-related Wikipedia articles, in multiple languages.
 
-04-reddit-comments
+## 04-reddit-comments
 
 A Notebook to load Reddit comments and metadata from posts including NGI-related keywords.
 
-05-technology-news
+## 05-technology-news
 
 A Notebook to load technology news from newspapers and magazines including NGI-related keywords.
