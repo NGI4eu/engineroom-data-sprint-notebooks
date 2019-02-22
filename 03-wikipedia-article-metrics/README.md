@@ -1,14 +1,7 @@
-A Notebook to load and visualize monthly data about NGI-related Wikipedia articles, in multiple languages.  
-
-#### Multilanguage metrics
-
-For processing the same articles across multiple Wikipedia language editions, execute the following steps: 
-1. python get_article_multilanguage_ids.py input_file output_file
-2. execute a bash script like "multilanguage_wiki_edits_monthly_metrics_social" to get results in multiple languages.
 
 #### Metrics monthly visualization
 
-Once copied the results on your hard drive, run locally the Jupyter Notebook script: Visualizations.ipynb
+Once copied the results on your hard drive, run locally the Jupyter Notebook scrip: Datasprint-Wikipedia.ipynb
 
 ### Metric descpription
 
