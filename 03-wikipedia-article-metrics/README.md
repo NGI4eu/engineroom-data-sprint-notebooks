@@ -1,7 +1,7 @@
 
 #### Metrics monthly visualization
 
-Once copied the results on your hard drive, run locally the Jupyter Notebook scrip: Datasprint-Wikipedia.ipynb
+Once copied the results on your hard drive, run locally the Jupyter Notebook script: Datasprint-Wikipedia.ipynb
 
 ### Metric description
 
