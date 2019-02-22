@@ -3,7 +3,7 @@
 
 Once copied the results on your hard drive, run locally the Jupyter Notebook scrip: Datasprint-Wikipedia.ipynb
 
-### Metric descpription
+### Metric description
 
 * **pageviews**: number of times an article has been accessed during one month.
 
