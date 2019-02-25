@@ -1,14 +1,11 @@
 # EngineRoom: Sentiment Analysis
 Sentiment analysis applied to some words of the Reddit dataset.
 
-The English LIWC dictionary is needed to run a part of this Jupyter. For seeing and playing with the last Visualization, is not needed.
+The English LIWC dictionary is needed to run a part of this Jupyter. For just seeing and playing with the last visualization, it is not needed.
 
-There is a folder ("data"), where you can find:
+There is a folder ("data"), where you can find a file with the list of the keywords analyzed: reddit_keywords.txt
 
-There is a file in the folder "data" with the list of the keywords analyzed: reddit_keywords.txt
-
-
-There is also a notebook available (Sentiment_Analysis_LIWC.ipynb) with the methods to plot de Visualizations. We show an example below of the available Visualizations.
+There is also a notebook available (Sentiment_Analysis_LIWC.ipynb) with the methods to plot the visualizations. We show an example below of the available visualizations.
 
 
 ```
@@ -32,7 +29,7 @@ The available options are:
 - num_deleted: Number of deleted comments by the author.
 - num_removed: Number of removed comments by Reddit moderators.
 
- And the following emotions or verb tenses: 
+ And the following emotions or language dimensions: 
  
  ![alt text](https://github.com/NGI4eu/engineroom-sentiment_analysis/blob/master/images/table_sentiments.png)
  
