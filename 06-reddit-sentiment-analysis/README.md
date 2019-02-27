@@ -1,5 +1,5 @@
 # EngineRoom: Sentiment Analysis
-Sentiment analysis applied to some words of the Reddit dataset.
+Analysis of emotions and language features associated to different NGI related keywords in the Reddit dataset.
 
 The English LIWC dictionary is needed to run a part of this Jupyter. For just seeing and playing with the last visualization, it is not needed.
 
