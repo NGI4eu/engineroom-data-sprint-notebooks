@@ -21,7 +21,7 @@ A Notebook to load Reddit comments and metadata from posts including NGI-related
 
 ## 05-technology-news
 
-A Notebook to load technology news from newspapers and magazines including NGI-related keywords.
+A Notebook to load technology news from newspapers and magazines including NGI-related keywords, and to perform some basic text processing operation.
 
 ## 06-reddit-sentiment-analysis
 
