@@ -3,6 +3,8 @@ Engineroom data sprint notebooks
 
 These are example notebooks performing some analysis over the Engiroom datasets.
 
+Note that several larger datasets are available on Zenodo under the NGI4eu community: https://zenodo.org/communities/ngi4eu 
+
 ## 01-setup
 
 A notebook that will show you how to setup a Python virtual environment on your system.
